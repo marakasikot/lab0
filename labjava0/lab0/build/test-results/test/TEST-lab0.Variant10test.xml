@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lab0.Variant10test" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-12T09:04:47" hostname="DESKTOP-T5BI3VT" time="0.003">
+  <properties/>
+  <testcase name="arrayTest[0]([I@8462f31, 5, [I@24569dba)" classname="lab0.Variant10test" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
